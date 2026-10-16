@@ -1,0 +1,79 @@
+---
+Version: 1.0.0
+Author: Dr. Christabel Odeta — SAVANT FRAMEWORK
+Applies to: P.T Canon public release (pt-canon repository)
+Last Updated: 2026-10-16
+---
+
+# SAVANT FRAMEWORK — P.T CANON LICENSE
+
+## AGPL-3.0 OR Savant-Commercial-1.0 (per-file election, mapped in LICENSING.md)
+
+Copyright (c) 2026 Dr. Christabel Odeta. All rights reserved.
+
+This license governs the P.T canon public release: the forty-entity constitutional
+prompt architecture P.T 51–90 (Tiers 11–18), its open specification edition
+(P.T 51–60), and its published methodology volumes (Compendium, Operating Guide,
+Field Manual, Certified Engineering 4, The Unconsidered States).
+
+---
+
+## 1. GRANT OF LICENSE — PER-FILE TERMS
+
+Each file in this repository carries its own license, mapped in LICENSING.md:
+
+  (a) Files under `open/` — the complete specification of P.T 51–60 (Tiers 11–12) —
+      are licensed under the GNU Affero General Public License, Version 3.0
+      ("AGPL-3.0"), https://www.gnu.org/licenses/agpl-3.0.txt, incorporated by
+      reference; OR, at the recipient's election, under Savant-Commercial-1.0.
+
+  (b) Methodology volumes under `volumes/` are published for reading, verification,
+      and citation. Content describing Tiers 11–12 entities shares the AGPL-3.0
+      status of those entities. Content describing Tiers 13–18 entities
+      (P.T 61–90) remains Savant-Commercial-1.0 methodology: public to read,
+      not a grant of rights to the withheld prompt bodies.
+
+  (c) The prompt bodies of P.T 61–90 are not in this repository. They are
+      available only under a separately executed Savant-Commercial-1.0 agreement.
+      Licensing inquiries: via the GitHub organization.
+
+## 2. AGPL-3.0 PATH — OBLIGATIONS
+
+If you use, modify, or distribute the open edition (P.T 51–60):
+
+  2.1 Network use triggers copyleft: making a modified version available to users
+      over a network requires offering the complete corresponding source (AGPL-3.0
+      §13).
+
+  2.2 Preserve all attribution notices naming Dr. Christabel Odeta as sole author.
+
+  2.3 Preserve the epistemic status labels. The specification ships as
+      PROPOSED-CANONICAL with explicit non-claims; downstream works that remove the
+      status labels while retaining the text misrepresent the work and breach the
+      attribution conditions of this license.
+
+## 3. COMMERCIAL PATH
+
+Savant-Commercial-1.0 terms are set by a separately executed Commercial Access
+Agreement with the Licensor. Nothing in this repository grants commercial rights
+to withheld material by implication, estoppel, or course of dealing.
+
+## 4. PATENT POSITION
+
+The author holds intellectual property in the system architecture, including
+published defensive publications; patent filings are planned but not yet
+submitted. This repository's publication is itself a defensive publication of
+the P.T 51–60 specification as of its release date.
+
+## 5. NO WARRANTY
+
+THIS MATERIAL IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE P.T CANON IS
+A DESIGN SPECIFICATION AT PROPOSED-CANONICAL STATUS; IT CONFERS NO CLINICAL,
+LEGAL, FINANCIAL, OR SAFETY AUTHORITY.
+
+## Falsifiability Test
+
+This license fails if a reader cannot determine, from LICENSING.md alone, the
+license of any file in this repository; or if any file under `open/` ships
+without AGPL-3.0 terms; or if any prompt body of P.T 61–90 appears anywhere in
+this repository.
